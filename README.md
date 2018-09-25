@@ -1,6 +1,14 @@
 # Subslot-Optimizer
 Subslot optimizer program for the game Kingdom Hearts Union Cross
 
+Next Steps: 
+- Add in keyblades 5~15
+- Add in remaining buttons for improved UI
+- Function to sort the medals the user inputs. This will be important for later
+- Implement optimization algorithm
+- Finish additional functions to get certain information
+
+
 The purpose of this program is to optimize the subslots on your keyblade. 
 The game does not have a feature which lets you optimize automatically, so this program will be able to do that for you.
 
