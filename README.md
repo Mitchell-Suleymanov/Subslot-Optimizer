@@ -64,3 +64,6 @@ ones you just took out.
 10. Run a loop to go through the subslots until it reaches the end
 of where you reached. Add up the boosts. Print them.
 11. Ask the user which keyblade they want optimized next. Repeat.
+
+Information on keyblades: http://www.khunchainedx.com/wiki/Keyblade
+By clicking on each keyblade, you can also see the subslot requirements for each one (at the bottom of the page).
